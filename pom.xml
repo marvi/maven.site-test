@@ -4,7 +4,7 @@
 
     <groupId>io.marvi</groupId>
     <artifactId>site-asciidoc</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -15,7 +15,7 @@
     </properties>
     <scm>
       <developerConnection>scm:git:git@github.com:marvi/maven.site-test.git</developerConnection>
-      <tag>site-asciidoc-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <build>
 
